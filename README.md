@@ -8,7 +8,7 @@
 
 # What did I learn from this:
 
- - How to use String, random and pyperclip Python module.
+ - Using String, random and pyperclip Python modules.
  - List comprehension Python.
 
 
