@@ -15,7 +15,7 @@
 
 # What did I learn from this:
 
- - Using String, random, sys and pyperclip Python modules.
- - List comprehension Python.
+ - Using String, random, sys and pyperclip python modules.
+ - List comprehension in python.
 
 
