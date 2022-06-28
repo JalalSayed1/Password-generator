@@ -1,11 +1,11 @@
 # About the project:
 
- - Random password generator.
- - Password generated will be copied to user's clipboard automatically.
- - password will always starts and ends with a character to avoid problems with some systems where they do not accept passwords to starts or ends with numbers or special characters.
- - Passwords generated contains UPPERCASE letters, lowercase letters, digits and symbols.
- - Symbols used from the String module punctuations. Which are: !"#$%&'()*+, -./:;<=>?@[\]^_`{|}~
- - Password length between 15 and 29 characters.
+- Random password generator.
+- Password generated will be copied to the user's clipboard automatically.
+- A password will always start and ends with a character to avoid problems with some systems where that do not accept passwords to start or end with numbers or special characters.
+- Passwords generated contain UPPERCASE letters, lowercase letters, digits and symbols.
+- Symbols used from the String module punctuations. Which are: !"#$%&'()*+, -./:;<=>?@[]^_`{|}~
+- Password length is between 15 and 29 characters.
 
 # Usage:
 `python <filename> <int> <int>`
